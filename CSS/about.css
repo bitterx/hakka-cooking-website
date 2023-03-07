@@ -1,0 +1,64 @@
+body{
+    background: #FFF5EC;
+
+};
+
+#container{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+h1{
+    color: rgb(209, 71, 168);;
+    text-align: left;
+}
+
+.main{
+    position: absolute;
+width: 460px;
+height: 32px;
+left: -8px;
+top: 48px;
+
+font-family: 'Ubuntu Mono';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+text-align: center;
+
+color: #000000;
+}
+
+.aboutPara{
+    position: absolute;
+    width: 1091px;
+    height: 400px;
+    left: 130px;
+    top: 390px;
+    
+    font-family: 'Ubuntu Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 50px;
+    
+    color: #000000;
+}
+
+.aboutSteph{
+    position: absolute;
+    width: 1078px;
+    height: 307px;
+    left: 130px;
+    top: 262px;
+    
+    font-family: 'Gloock';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    
+    color: #EF7BE3; 
+}
+

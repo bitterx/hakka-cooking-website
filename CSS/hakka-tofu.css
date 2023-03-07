@@ -1,0 +1,396 @@
+li{
+    margin:5px;
+}
+.greenBox{
+    position: absolute;
+    width: 1500px;
+    height: 575px;
+    left: -3px;
+    top: 416px;
+    
+    background: #FF7878;}
+
+    .beigeBox{
+        position: absolute;
+        width: 1500px;
+        height: 2432px;
+        left: -29px;
+        top: 837px;
+        
+        background: #FFF5EC;}
+
+.main{
+    position: absolute;
+width: 460px;
+height: 32px;
+left: -8px;
+top: 48px;
+
+font-family: 'Ubuntu Mono';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+text-align: center;
+
+color: #000000;
+}
+
+.about{
+    position: absolute;
+    width: 296px;
+    height: 32px;
+    left: 319px;
+    top: 48px;
+    
+    font-family: 'Ubuntu Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+    
+    color: #000000;
+    
+    }
+
+    .hakkaTofu{
+        position: absolute;
+        width: 831px;
+        height: 90px;
+        left: 324px;
+        top: 170px;
+        
+        font-family: 'gloock';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 64px;
+        line-height: 84px;
+        text-align: center;
+        
+        color: #FF5252;
+        
+    }
+
+    .tofuPara{
+        position: absolute;
+width: 1091px;
+height: 98px;
+left: 175px;
+top: 545px;
+
+font-family: 'Ubuntu Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+text-align: center;
+
+color: #000000;
+
+    }
+
+    .chilliChicken{
+        position: absolute;
+        width: 296px;
+        height: 32px;
+        left: 592px;
+        top: 295px;
+        
+        font-family: 'Gloock';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 90px;
+        text-align: center;
+        
+        color: #FF5252;  
+    }
+
+.pronounce{
+    position: absolute;
+    width: 296px;
+    height: 32px;
+    left: 592px;
+    top: 462px;
+    
+    font-family: 'Ubuntu Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 32px;
+   
+    
+    text-align: center;
+    
+    color: #000000;
+    }
+    .title-one{
+            position: absolute;
+            width: 434px;
+            height: 32px;
+            left: 481px;
+            top: 990px;
+            
+            font-family: 'Gloock';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 27px;
+            line-height: 32px;
+            
+            color: #FF7878;
+            
+        }
+
+.ingre{
+    position: absolute;
+width: 2059px;
+height: 40px;
+left: -317px;
+top: 845px;
+
+font-family: 'Ubuntu Mono';
+font-style: italic;
+font-weight: 700;
+font-size: 32px;
+line-height: 32px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FF5252;
+
+}
+ .ways{
+    position: absolute;
+width: 1391px;
+height: 32px;
+left: -16px;
+top: 1934px;
+
+font-family: 'Ubuntu Mono';
+font-style: italic;
+font-weight: 700;
+font-size: 32px;
+line-height: 32px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FF5252;
+ }   
+
+.ingredients{
+    position: absolute;
+    width: 296px;
+    height: 32px;
+    left: 592px;
+    top: 890px;
+    
+    font-family: 'Gloock';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    color:#FF5252
+    }
+
+
+.list{
+    position: absolute;
+    width: 845px;
+    height: 480px;
+    left: 481px;
+    top: 1030px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+}
+
+.ingredients-two{
+    position: absolute;
+                width: 434px;
+                height: 27px;
+                left: 481px;
+                top: 1330px;
+                
+                font-family: 'Gloock';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 27px;
+                line-height: 32px;
+                
+                color: #FF7878;
+    
+}
+
+.list-two{
+    position: absolute;
+    width: 576px;
+    height: 592px;
+    left: 481px;
+    top: 1380px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+      
+color: #000000;
+}
+
+.ingredients-three{
+    position: absolute;
+    width: 434px;
+    height: 27px;
+    left: 481px;
+    top: 1550px;
+    
+    font-family: 'Gloock';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 32px;
+    
+    color: #FF7878;
+    
+
+}
+
+.list-three{
+    position: absolute;
+    width: 576px;
+    height: 489px;
+    left: 481px;
+    top: 1620px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000; 
+}
+
+.method{
+    position: absolute;
+    width: 296px;
+    height: 32px;
+    left: 700px;
+    top: 2030px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    
+    color:#FF5252;
+}
+
+.method-title-one{
+
+    position: absolute;
+    
+    height: 27px;
+    left: 481px;
+    top: 2130px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    color:#FF7878;
+
+}
+
+.method-list{
+    position: absolute;
+    width: 576px;
+    height: 535px;
+    left: 481px;
+    top: 2226px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+
+
+color: #000000;
+}
+
+.method-two{
+    position: absolute;
+  
+    height: 27px;
+    left: 481px;
+    top: 2508px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    
+    color: #FF7878;
+}
+
+.method-list-two{
+    position: absolute;
+    width: 576px;
+    height: 535px;
+    left: 481px;
+    top: 2570px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+}
+
+.method-three{
+    position: absolute;
+  
+    height: px;
+    left: 481px;
+    top: 2800px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    
+    color: #FF7878;
+
+}
+
+.method-list-three{
+    position: absolute;
+    width: 576px;
+    height: 535px;
+    left:  481px;
+    top: 2870px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+}

@@ -1,0 +1,440 @@
+li{
+    margin:5px;
+}
+body{
+    margin:0;
+}
+.greenBox{
+    position: absolute;
+    width: 1500px;
+    height: 500px;
+    left: -3px;
+    top: 416px;
+    
+    background: #FF7878;
+}
+    .beigeBox{
+        position: absolute;
+        width:100vw;
+        height: 2932px;
+       
+        top: 1010px;
+        
+        background: #FFF5EC;}
+.main{
+    position: absolute;
+width: 460px;
+height: 32px;
+left: -8px;
+top: 48px;
+
+font-family: 'Ubuntu Mono';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+text-align: center;
+
+color:#f1e6f0;
+}
+
+.about{
+    position: absolute;
+    width: 296px;
+    height: 32px;
+    left: 319px;
+    top: 48px;
+    
+    font-family: 'Ubuntu Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+    
+    color: #000000;
+    
+    }
+
+    .hakkaTofu{
+        position: absolute;
+        width: 296px;
+        height: 32px;
+        left: 592px;
+        top: 295px;
+        
+        font-family: 'Lemon';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 90px;
+        text-align: center;
+        
+        color:  #ffffff;  
+    }
+
+    .chilliChicken{
+        position: absolute;
+        width: 831px;
+        height: 90px;
+        left: 324px;
+        top: 170px;
+        
+        font-family: 'Gloock';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 64px;
+        line-height: 84px;
+        text-align: center;
+        
+        color: #ffffff;
+    }
+
+    .pronounce{
+        position: absolute;
+        width: 296px;
+        height: 32px;
+        left: 592px;
+        top: 462px;
+        
+        font-family: 'Ubuntu Mono';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 32px;
+       
+        
+        text-align: center;
+        
+        color: #000000;
+            }
+
+            .tofuPara{
+                position: absolute;
+        width: 1091px;
+        height: 98px;
+        left: 175px;
+        top: 545px;
+        
+        font-family: 'Ubuntu Mono';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 32px;
+        line-height: 52px;
+        text-align: center;
+        
+        color: #000000;
+            }
+
+
+            .ingre{
+                position: absolute;
+            width: 100%;
+            height: 40px;
+            text-align: center;
+            top: 845px;
+            
+            font-family: 'Ubuntu Mono';
+            font-style: italic;
+            font-weight: 700;
+            font-size: 32px;
+            line-height: 32px;
+            /* identical to box height */
+            
+            text-align: center;
+            
+            color: #FF7878;
+            
+            }
+             .ways{
+                position: absolute;
+            width: 1391px;
+            height: 32px;
+            left: -16px;
+            top: 1934px;
+            
+            font-family: 'Ubuntu Mono';
+            font-style: italic;
+            font-weight: 700;
+            font-size: 32px;
+            line-height: 32px;
+            /* identical to box height */
+            
+            text-align: center;
+            
+            color: #FF7878;
+             }   
+        .title-one{
+            position: absolute;
+            width: 434px;
+            height: 32px;
+            left: 481px;
+            top: 1015px;
+            
+            font-family: 'Gloock';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 27px;
+            line-height: 32px;
+            
+            color: #FF7878;
+            
+        }
+            
+            .ingredients{
+                position: absolute;
+                width: 296px;
+                height: 32px;
+                left: 592px;
+                top: 920px;
+                
+                font-family: 'Gloock';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 32px;
+                line-height: 38px;
+                text-align: center;
+                
+                color: #ffffff;
+                }
+            
+            
+.list{
+ position: absolute;
+
+height: 480px;
+left: 481px;
+top: 1060px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+            }
+            .title-two{
+                position: absolute;
+                width: 434px;
+                height: 32px;
+                left: 481px;
+                top: 1330px;
+                
+                font-family: 'Gloock';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 27px;
+                line-height: 32px;
+                
+                color: #FF7878;
+                
+            }
+            
+ .ingredients-two{
+position: absolute;
+width: 576px;
+height: 535px;
+left: 310px;
+top: 1480px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+
+
+                
+                color: #FF7878;
+                
+            }
+            
+            .list-two{
+                position: absolute;
+                width: 576px;
+                height: 592px;
+                left: 481px;
+                top: 1380px;
+                
+                font-family: 'Inter';
+                font-style: italic;
+                font-weight: 500;
+                font-size: 24px;
+                line-height: 29px;
+                  
+            color: #000000;
+            }
+
+            .title-three{
+                position: absolute;
+                width: 434px;
+                height: 32px;
+                left: 481px;
+                top: 1650px;
+                
+                font-family: 'Gloock';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 27px;
+                line-height: 32px;
+                
+                color: #FF7878;
+                
+            }
+            
+            .ingredients-three{
+                position: absolute;
+            width: 576px;
+            height: 42px;
+            left: 618px;
+            top: 928px;
+            
+            font-family: 'Lemon';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 32px;
+            line-height: 42px;
+            text-align: center;
+            
+            color: #FF7878;
+            
+            }
+            
+            .list-three{
+                position: absolute;
+                width: 576px;
+                height: 489px;
+                left: 481px;
+                top: 1720px;
+                
+                font-family: 'Inter';
+                font-style: italic;
+                font-weight: 500;
+                font-size: 24px;
+                line-height: 29px;
+                
+                color: #000000; 
+            }
+            
+            .method{
+                position: absolute;
+            width: 296px;
+            height: 32px;
+            left: 690px;
+            top: 2064px;
+            
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 32px;
+            line-height: 39px;
+            
+            color:#FF7878;
+            }
+
+            .method-title-one{
+                position: absolute;
+                width: 296px;
+                height: 32px;
+                left: 481px;
+                top: 2170px;
+                
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 32px;
+                line-height: 39px;
+                
+                color:#FF7878;
+            }
+            
+            .method-list{
+                position: absolute;
+            width: 576px;
+            height: 535px;
+            left: 481px;
+            top: 2226px;
+            
+            font-family: 'Inter';
+            font-style: italic;
+            font-weight: 500;
+            font-size: 24px;
+            line-height: 29px;
+            
+            
+            color: #000000;
+            }
+            
+            .method-two{
+                position: absolute;
+            width: 296px;
+            height: 32px;
+            left: 481px;
+            top: 2608px;
+            
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 32px;
+            line-height: 39px;
+            
+            color: #FF7878;
+            }
+            
+            .method-list-two{
+                position: absolute;
+            width: 576px;
+            height: 535px;
+            left: 481px;
+            top: 2669px;
+            
+            font-family: 'Inter';
+            font-style: italic;
+            font-weight: 500;
+            font-size: 24px;
+            line-height: 29px;
+            
+            color: #000000;
+            }
+            
+            .method-three{
+                position: absolute;
+         
+            height: 32px;
+            left: 481px;
+            top: 2950px;
+            
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 32px;
+            line-height: 39px;
+            
+            color: #FF7878;
+            
+            }
+            
+            .method-list-three{
+                position: absolute;
+            width: 576px;
+            height: 535px;
+            left:  481px;
+            top: 3060px;
+            
+            font-family: 'Inter';
+            font-style: italic;
+            font-weight: 500;
+            font-size: 24px;
+            line-height: 29px;
+            
+            color: #000000;
+            }
+
+            #chicken{
+                object-fit: fill;
+                object-position: 75% 75%;
+                width: 100%
+                
+            }
+           

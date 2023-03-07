@@ -1,0 +1,417 @@
+
+li{
+    margin:9px;
+}
+body{
+    margin:0;
+}
+.greenBox{
+    position: absolute;
+    width: 100vw;
+    height: 540px;
+ 
+    top: 426px;
+    
+    background: #EEAB00;}
+
+    .beigeBox{
+        position: absolute;
+        width:100vw;
+        height: 2500px;
+       
+        top: 1500px;
+        
+        background: #FFF5EC;}
+
+.main{
+    position: absolute;
+width: 460px;
+height: 32px;
+left: -8px;
+top: 48px;
+
+font-family: 'Ubuntu Mono';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+text-align: center;
+
+color: #000000;
+}
+
+.about{
+    position: absolute;
+    width: 296px;
+    height: 32px;
+    left: 319px;
+    top: 48px;
+    
+    font-family: 'Ubuntu Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+    
+    color: #000000;
+    
+    }
+
+    .hakkaTofu{
+        position: absolute;
+        width: 831px;
+        height: 90px;
+        left: 324px;
+        top: 170px;
+        
+        font-family: 'Lemon';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 64px;
+        line-height: 84px;
+        text-align: center;
+        
+        color:#EEAB00;
+        
+    }
+
+    .tofuPara{
+        position: absolute;
+width: 1091px;
+height: 98px;
+left: 175px;
+top: 545px;
+
+font-family: 'Ubuntu Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+text-align: center;
+
+color: #000000;
+
+    }
+
+   
+
+.pronounce{
+    position: absolute;
+    width: 296px;
+    height: 32px;
+    left: 592px;
+    top: 462px;
+    
+    font-family: 'Ubuntu Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 32px;
+   
+    
+    text-align: center;
+
+color: #000000;
+    }
+
+.ingre{
+    position: absolute;
+width: 2059px;
+height: 40px;
+left: -317px;
+top: 845px;
+
+font-family: 'Ubuntu Mono';
+font-style: italic;
+font-weight: 700;
+font-size: 32px;
+line-height: 32px;
+/* identical to box height */
+
+text-align: center;
+
+color: #EEAB00;
+
+}
+ .ways{
+    position: absolute;
+width: 1391px;
+height: 32px;
+left: -16px;
+top: 1934px;
+
+font-family: 'Ubuntu Mono';
+font-style: italic;
+font-weight: 700;
+font-size: 32px;
+line-height: 32px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FF2BEA;
+ }   
+
+.ingredients{
+    position: absolute;
+    width: 296px;
+    height: 32px;
+    left: 592px;
+    top: 850px;
+    
+    font-family: 'lemon';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+
+color: #ffffff;
+    }
+
+    .title-one{
+
+        position: absolute;
+        width: 434px;
+        height: 32px;
+        left: 481px;
+        top: 990px;
+        
+        font-family: 'lemon';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 27px;
+        line-height: 32px;
+        
+        color: #EEAB00;
+    }
+
+.list{
+    position: absolute;
+    width: 845px;
+    height: 480px;
+    left: 481px;
+    top: 1040px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+}
+
+.ingredients-two{
+    position: absolute;
+    width: 434px;
+    height: 27px;
+    left: 481px;
+    top: 1230px;
+    
+    font-family: 'lemon';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 32px;
+    
+    color: #EEAB00;
+    
+}
+
+.list-two{
+    position: absolute;
+    width: 576px;
+    height: 592px;
+    left: 481px;
+    top: 1280px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+      
+color: #000000;
+}
+
+.ingredients-three{
+    position: absolute;
+    
+    height: 27px;
+    left: 481px;
+    top: 1550px;
+    
+    font-family: 'lemon';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 32px;
+
+color: #EEAB00;
+
+}
+
+.list-three{
+    position: absolute;
+    width: 576px;
+    height: 389px;
+    left: 481px;
+    top: 1620px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000; 
+}
+
+.method{
+    position: absolute;
+    width: 296px;
+    height: 32px;
+    left: 700px;
+    top: 2030px;
+    
+    font-family: 'lemon';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+color: #EEAB00;
+}
+
+.method-title-one{
+
+    position: absolute;
+  
+    height: 27px;
+    left: 481px;
+    top: 2130px;
+    
+    font-family: 'lemon';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    color:#EEAB00;
+
+}
+
+.method-list{
+    position: absolute;
+    width: 576px;
+    height: 535px;
+    left: 481px;
+    top: 2226px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+
+
+color: #000000;
+}
+
+.method-two{
+    position: absolute;
+    
+    height: 27px;
+    left: 481px;
+    top: 2508px;
+    
+    font-family: 'lemon';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    
+    color: #EEAB00;
+}
+
+.method-list-two{
+    position: absolute;
+    width: 576px;
+    height: 535px;
+    left: 481px;
+    top: 2600px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+}
+
+.method-three{
+    position: absolute;
+   
+    height: px;
+    left: 481px;
+    top: 2800px;
+    
+    font-family: 'lemon';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    
+    color: #EEAB00;
+
+}
+
+.method-list-three{
+    position: absolute;
+    width: 576px;
+    height: 535px;
+    left:  481px;
+    top: 2890px;
+    
+    font-family: 'inter';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+}
+
+.method-four{
+    position: absolute;
+   
+    height: px;
+    left: 481px;
+    top: 3290px;
+    
+    font-family: 'lemon';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    
+    color: #EEAB00;
+
+}
+
+.method-list-four{
+    position: absolute;
+    width: 596px;
+    height: 565px;
+    left:  481px;
+    top: 3380px;
+    
+    font-family: 'inter';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+}

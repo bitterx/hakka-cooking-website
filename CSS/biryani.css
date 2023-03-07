@@ -17,9 +17,9 @@ body{
     .beigeBox{
         position: absolute;
         width:100vw;
-        height: 2500px;
+        height: 3199px;
        
-        top: 1500px;
+        top: 828px;
         
         background: #FFF5EC;}
 
@@ -167,7 +167,7 @@ color: #FF2BEA;
     line-height: 38px;
     text-align: center;
 
-color: #ffffff;
+color: #EEAB00;
     }
 
     .title-one{
